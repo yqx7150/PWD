@@ -7,9 +7,13 @@ Official PyTorch implementation of the paper:
 
 ## 🏗️ Project Structure
 ---
+
 ├── CT_rec_lib/ # CT reconstruction library (FP / BP operators)
+
 ├── guided_diffusion/ # Diffusion model implementation
+
 ├── limited_IMG_train.py # Training script
+
 ├── limited_IMG_sample.py # Sampling / inference script
 
 ### 📂 Module Description
