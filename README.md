@@ -15,7 +15,7 @@ The figure below illustrates the overall framework of the paper and key experime
 
 ![Framework](1.png)
 
-![Result](640_90.png)
+![Result](640_120.png)
 
 ![Result](new_data_all.png)
 ## 🏗️ Project Structure
