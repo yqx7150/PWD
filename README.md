@@ -13,11 +13,11 @@ Yi Liu, Yiyang Wen, Zekun Zhou, Junqi Ma, Linghang Wang, Yucheng Yao, Liu Shi, Q
 
 The figure below illustrates the overall framework of the paper and key experimental results:
 
-![Framework](1.png)
+![Framework](fig/1.png)
 
-![Result](640_120.png)
+![Result](fig/640_120.png)
 
-![Result](new_data_all.png)
+![Result](fig/new_data_all.png)
 ## 🏗️ Project Structure
 ---
 
