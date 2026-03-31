@@ -1,9 +1,19 @@
-# PWD: Prior-aware Wavelet Diffusion for Efficient Dental Limited-angle CT Reconstruction
+# Paper Title: 
+PWD: Prior-aware Wavelet Diffusion for Efficient Dental Limited-angle CT Reconstruction
 
-Official PyTorch implementation of the paper:
+## Author(s)
+Yi Liu, Yiyang Wen, Zekun Zhou, Junqi Ma, Linghang Wang, Yucheng Yao, Liu Shi, Qiegen Liu, Senior Member, IEEE
 
-> **PWD: Prior-aware Wavelet Diffusion for Efficient Dental Limited-angle CT Reconstruction**
+## Publication Information
+[https://arxiv.org/abs/2511.14310](https://arxiv.org/abs/2507.05317)
 
+---
+
+## Paper Structure and Experimental Results
+
+The figure below illustrates the overall framework of the paper and key experimental results:
+
+![Framework and Results](1.png)
 
 ## 🏗️ Project Structure
 ---
